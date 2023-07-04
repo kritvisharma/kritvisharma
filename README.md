@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kritvisharma!
 
-- 🌱 I’m currently learning DL and Blockchain Technology.
+- 🌱 I’m currently learning Blockchain Technology.
 - 💞️ I’m excited to learn and develop my skills as a SE developer.
 
 <!---
